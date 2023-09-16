@@ -2,6 +2,8 @@
 
 Код обучения моделей для соревнования https://www.kaggle.com/competitions/playground-series-s3e19/overview
 
+Модель предсказывает объем продаж
+
 Forecasting.ipynb - обучение 5 моделей на базе:
 - GradientBoostingRegressor, RandomForestRegressor из библиотеки sklearn
 - XGBRegressor
